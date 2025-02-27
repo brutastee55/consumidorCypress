@@ -1,0 +1,20 @@
+#node_module
+node_modules/
+
+#download
+cypress/downloads
+
+#others
+cypress/fixtures
+
+#packge-lock
+packge-lock.json
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/tests
+
+#IDE
+.idea/
+.vscode/
