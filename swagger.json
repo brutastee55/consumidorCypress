@@ -1,0 +1,20 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "API Test Automation - Cypress",
+    "description": "Documentação gerada automaticamente pelos testes de API do Cypress.",
+    "version": "1.0.0"
+  },
+  "host": "api.exemplo.com",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {}
+}
